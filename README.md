@@ -1,7 +1,7 @@
 # 🌾 AI-Based Crop Yield Prediction & Optimization
 
 ## 🚀 Live Application  
-👉 https://your-app.streamlit.app  
+👉 (https://ai-crop-yield-prediction-ixdcwdmcv6gcztzes82a3n.streamlit.app/) 
 
 ---
 
